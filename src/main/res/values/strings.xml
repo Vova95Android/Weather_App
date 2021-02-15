@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="api_key">AIzaSyCFNevTBsZrLkQFiojTl0xNsmoVfa1J9w8</string>
+    <string name="api_wheather_id">2df8ef9f1f84d296670453486e84b504</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="todo5">TODO</string>
+    <string name="todo6">TODO</string>
+    <string name="todo7">TODO</string>
+    <string-array name="day_week">
+        <item>"ВС"</item>
+        <item>"ПН"</item>
+        <item>"ВТ"</item>
+        <item>"СР"</item>
+        <item>"ЧТ"</item>
+        <item>"ПТ"</item>
+        <item>"СБ"</item>
+    </string-array>
+</resources>
